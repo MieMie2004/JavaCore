@@ -44,7 +44,7 @@ public class MainProduct {
         System.out.println("---------Giải----------");
         List<Product> products= new ArrayList<>();
         Scanner a = new Scanner(System.in);
-        for (int i= 0; i<2;i++) {
+        for (int i= 0; i<5;i++) {
             int productId = 0;
             boolean ID = true;
             do {
